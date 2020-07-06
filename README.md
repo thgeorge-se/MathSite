@@ -1,7 +1,7 @@
 # MathSite
 A Mathematician Site !
 
-http://thgeorge-se-mathsite.epizy.com/index.html
+http://thgeorge-se-mathsite.epizy.com
 
 
 
